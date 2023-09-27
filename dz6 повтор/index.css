@@ -1,0 +1,17 @@
+.wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#operator_btns {
+    margin: 10px;
+}
+
+#num1,#num2 {
+    text-align: center;
+}
+
+#result {
+    margin-left: 10px;
+}
